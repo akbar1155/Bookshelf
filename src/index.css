@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f4f7fd;
+  min-width: 320px;
+  min-height: 100vh;
+}
+.container {
+  margin: 0 auto;
+  width: 1250px;
+}
+.mo {
+  margin: 0 auto;
+}
